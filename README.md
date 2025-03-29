@@ -3,10 +3,10 @@
 A warm, earthy color theme inspired by terracotta pottery and cream colors, designed for comfortable long coding sessions. Available in both dark and light variants.
 
 ### Light
-![Terracotta Cream Light Theme](https://raw.githubusercontent.com/IlhanYapici/terracotta-cream/main/assets/light-preview.png)
+![Terracotta Cream Light Theme](https://raw.githubusercontent.com/IlhanYapici/terracota-cream/main/assets/light-preview.png)
 
 ### Dark
-![Terracotta Cream Dark Theme](https://raw.githubusercontent.com/IlhanYapici/terracotta-cream/main/assets/dark-preview.png)
+![Terracotta Cream Dark Theme](https://raw.githubusercontent.com/IlhanYapici/terracota-cream/main/assets/dark-preview.png)
 
 ## Features
 
