@@ -14,6 +14,7 @@
     "button.background": "#C65F3C",
     "button.foreground": "#F5EFE0",
     "button.hoverBackground": "#D87D5C",
+    "icon.foreground": "#D87D5C",
     "dropdown.background": "#382A20",
     "dropdown.foreground": "#F5EFE0",
     "dropdown.border": "#5A4634",
