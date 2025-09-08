@@ -27,6 +27,8 @@
     "editorLineNumber.foreground": "#8A7A6A",
     "editorLineNumber.activeForeground": "#D87D5C",
     "editorWhitespace.foreground": "#5A463480",
+    "editorSuggestWidget.background": "#382A20",
+    "editor.compositionBorder": "#231b14",
     "focusBorder": "#C65F3C",
     "input.background": "#382A20",
     "input.border": "#5A4634",
