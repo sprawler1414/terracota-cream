@@ -56,6 +56,8 @@
     "peekViewResult.matchHighlightBackground": "#C65F3C60",
     "peekViewResult.selectionBackground": "#5A4634",
     "peekViewTitle.background": "#231B14",
+    "commandCenter.background": "#2A2018",
+    "commandCenter.activeBackground": "#2A2018",
     "pickerGroup.foreground": "#E8A887",
     "progressBar.background": "#C65F3C",
     "scrollbar.shadow": "#00000000",
@@ -104,6 +106,10 @@
     "titleBar.inactiveBackground": "#231B14",
     "titleBar.inactiveForeground": "#8A7A6A",
     "tree.indentGuidesStroke": "#5A4634",
+    "quickInput.background": "#231B14",
+    "quickInput.foreground": "#d4be98",
+    "keybindingLabel.background": "#584848b7",
+    "keybindingLabel.foreground": "#d4be98"
   },
   "tokenColors": [
     {
