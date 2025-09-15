@@ -111,7 +111,11 @@
     "quickInput.background": "#231B14",
     "quickInput.foreground": "#d4be98",
     "keybindingLabel.background": "#584848b7",
-    "keybindingLabel.foreground": "#d4be98"
+    "keybindingLabel.foreground": "#d4be98",
+    "editorHoverWidget.background": "#231B14",
+    "editorHoverWidget.border": "#383432",
+    "editorHoverWidget.foreground": "#d4be98",
+    "editorHoverWidget.statusBarBackground": "#2a2017",
   },
   "tokenColors": [
     {
